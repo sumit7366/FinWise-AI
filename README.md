@@ -374,5 +374,5 @@ Add all `.env.local` variables in Vercel Dashboard → Settings → Environment 
 
 ## Support
 
-- Setup issues: engineering@finwise.ai
-- Demo questions: team@finwise.ai
+- Setup issues: sumitranjanhisu@gmail.com
+- Project Demo questions: singhalmehak04@gmail.com
