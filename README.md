@@ -4,6 +4,12 @@
 
 ---
 
+## 🌐 Live Demo
+
+👉 [Click here to view live project](https://fin-wise-ai-two.vercel.app/)
+
+---
+
 ## ✨ Features
 
 * 🔐 Authentication (Google OAuth + Email)
