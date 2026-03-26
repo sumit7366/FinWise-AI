@@ -4,7 +4,7 @@
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live 
 
 👉 [Click here to view live project](https://fin-wise-ai-two.vercel.app/)
 
